@@ -1,2 +1,2 @@
 # MuradMammadli_Resume
-My resume
+This is my resume
